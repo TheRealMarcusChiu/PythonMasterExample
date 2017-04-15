@@ -99,3 +99,5 @@ ENV/
 
 # PyCharm
 .idea
+
+sand_box.py
