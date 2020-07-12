@@ -17,7 +17,7 @@ class Employee:
         print "Total Employee %d" % Employee.empCount
 
     def display_employee(self):
-        print "Name : ", self.name, ", Salary: ", self.salary
+        print "Name : ", self.display_count, ", Salary: ", self.salary
 
     def __del__(self):
         class_name = self.__class__.__name__
