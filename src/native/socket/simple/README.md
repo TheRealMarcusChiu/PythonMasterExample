@@ -1,0 +1,3 @@
+- run server.py first
+- run client.py next
+- or run `curl ip:port`
